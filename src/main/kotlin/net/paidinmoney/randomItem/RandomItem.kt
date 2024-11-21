@@ -121,7 +121,7 @@ class RandomItem : JavaPlugin() {
             }
 
             if (args.isEmpty()) {
-                sender.sendMessage("Usage: /randomitems <start|stop>")
+                sender.sendMessage("Usage: /randomitems start/stop")
                 return false
             }
 
@@ -147,7 +147,7 @@ class RandomItem : JavaPlugin() {
                     }
                 }
                 else -> {
-                    sender.sendMessage("Unknown subcommand. Usage: /randomitems <start|stop>")
+                    sender.sendMessage("Unknown subcommand. Usage: /randomitems start/stop")
                 }
             }
             return true
