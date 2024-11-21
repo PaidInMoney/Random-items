@@ -1,0 +1,12 @@
+# Random Item Plugin Configuration
+# Define the chances for each category of items to be given to players.
+# the chances that are currently set are good as in CubeCraft's gamemode.
+chances:
+  blocks: 20       # Chance in percentage to give blocks
+  items: 60        # Chance in percentage to give regular items
+  spawn_eggs: 10   # Chance in percentage to give spawn eggs
+  armor: 5        # Chance in percentage to give armor
+  weapons: 5      # Chance in percentage to give weapons
+
+# Note:
+# The total of these chances must equal 100% for proper functioning.

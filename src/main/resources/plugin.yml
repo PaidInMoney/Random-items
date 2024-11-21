@@ -1,0 +1,13 @@
+name: RandomItems-SINGLE-PLAYER
+version: '1.0'
+main: net.paidinmoney.randomItem.RandomItem
+api-version: '1.20'
+commands:
+  randomitems:
+    description: Start or stop receiving random items.
+    usage: /randomitems <start|stop>
+    permission: randomitems.use
+permissions:
+  randomitems.use:
+    description: Allows the user to use random items commands.
+    default: op
