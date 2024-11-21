@@ -10,3 +10,4 @@ chances:
 
 # Note:
 # The total of these chances must equal 100% for proper functioning.
+# you cannot use any number under 1! for example: 0.1 0.2 and 1.9 etc. only 20 60 etc are accepted.
