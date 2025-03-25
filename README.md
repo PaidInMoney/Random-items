@@ -1,7 +1,7 @@
 this is my first ever plugin made that is public. i hope you enjoy it!
 
 
-make sure to check out my e-bio.gg! | https://ebio.gg/@paidinmoney
+make sure to check out my guns.lol! | https://guns.lol/PaidInMoney
 
 # this is a plugin where every 5 seconds you would get a random item from the creative menu and from /give.
 
